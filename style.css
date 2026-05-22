@@ -21,7 +21,7 @@
 }
 
 ::selection {
-	background-color: #a6495a;
+	background-color: #00ecea;
 	color: #ffffff;
 }
 
@@ -64,8 +64,8 @@ strong {
 i,
 em {
 	letter-spacing: 1px;
-	color: #c9617b !important;
-	text-shadow: 0px 0px 3px #ae455f !important;
+	color: #00e3e1 !important;
+	text-shadow: 0px 0px 3px #00e3e1 !important;
 }
 
 p.npf_quirky {
@@ -79,8 +79,8 @@ p.npf_quirky {
 p.npf_quote {
 	padding-bottom: 5px;
 	line-height: 15px;
-	color: #ae455f;
-	text-shadow: 0px 0px 1px #ae455f;
+	color: #00e3e1;
+	text-shadow: 0px 0px 1px #00e3e1;
 	letter-spacing: 1px;
 }
 
@@ -91,7 +91,7 @@ p.npf_chat {
 }
 
 strike {
-	text-decoration: line-through 1px solid #a6495a;
+	text-decoration: line-through 1px solid #00e3e1;
 	font-family: "Bungee Hairline", cursive !important;
 }
 
@@ -333,7 +333,7 @@ div.npf-link-block .poster::before {
 	width: 135px;
 	height: 135px;
 	left: 0px;
-	background-color: "#d46b7e";
+	background-color: "00e3e1";
 	top: -55px;
 	border-top-left-radius: 20px;
 }
@@ -383,7 +383,7 @@ div.npf-link-block .poster::before {
 }
 
 #window big {
-	color: #d46b7e;
+	color: #00e3e1;
 	font-family: "Cute Font", cursive;
 	font-size: 15px;
 }
@@ -399,8 +399,8 @@ div.npf-link-block .poster::before {
 	margin-top: -10px;
 	cursor: move;
 	z-index: 10;
-	color: #d46b7e;
-	text-shadow: 0px 0px 3px #d46b7e;
+	color: #00e3e1;
+	text-shadow: 0px 0px 3px #00e3e1;
 	font-family: "normal", cursive;
 	font-size: 14px;
 	letter-spacing: 2px;
