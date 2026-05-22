@@ -8850,24 +8850,24 @@ div.npf-link-block .poster::before {
 }
 
 :root {
-	--MusicPlayer-Distance-From-Bottom: 30px;
-	--MusicPlayer-Frame-Thickness: 12px;
-	--MusicPlayer-Frame-Color: #transparent;
-	--MusicPlayer-Frame-Transparency: 40%;
-	--MusicPlayer-Text-Background: #transparent;
-	--MusicPlayer-Text-Padding: 12px;
-	--MusicPlayer-Text-Align: right;
-	--MusicPlayer-Text-TOP-Size: 0px;
-	--MusicPlayer-Text-TOP-Color: #c8cdb3;
-	--MusicPlayer-Text-BOTTOM-Size: 0px;
-	--MusicPlayer-Text-BOTTOM-Color: #c8cdb3;
-	--MusicPlayer-Circle-Size: 50px;
-	--MusicPlayer-Circle-Background: #transparent;
-	--MusicPlayer-PlayButton-Size: 12px;
-	--MusicPlayer-PlayButton-Color: #74ACDF;
-	--MusicPlayer-Bar-Thickness: 2px;
-	--MusicPlayer-Bar-Spacing: 2px;
-	--MusicPlayer-Bar-Color: #c8cdb3;
-	--MusicPlayer-SlideIn-Speed: 0.69s;
-	--MusicPlayer-SlideOut-Speed: 1s;
+    --MusicPlayer-Distance-From-Bottom:30px;
+    --MusicPlayer-Frame-Thickness:12px;
+    --MusicPlayer-Frame-Color: transparent;
+    --MusicPlayer-Frame-Transparency:40%;
+    --MusicPlayer-Text-Background: transparent;
+    --MusicPlayer-Text-Padding:12px;
+    --MusicPlayer-Text-Align:right;
+    --MusicPlayer-Text-TOP-Size:12px; /* Ajustado para que se vea */
+    --MusicPlayer-Text-TOP-Color:#87CEEB; /* CELESTE */
+    --MusicPlayer-Text-BOTTOM-Size:10px; /* Ajustado para que se vea */
+    --MusicPlayer-Text-BOTTOM-Color:#add8e6; /* CELESTE CLARO */
+    --MusicPlayer-Circle-Size:50px;
+    --MusicPlayer-Circle-Background: transparent;
+    --MusicPlayer-PlayButton-Size:12px;
+    --MusicPlayer-PlayButton-Color:#00BFFF; /* CELESTE FUERTE */
+    --MusicPlayer-Bar-Thickness:2px;
+    --MusicPlayer-Bar-Spacing:2px;
+    --MusicPlayer-Bar-Color:#87CEEB; /* CELESTE */
+    --MusicPlayer-SlideIn-Speed:0.69s;
+    --MusicPlayer-SlideOut-Speed:1s;
 }
