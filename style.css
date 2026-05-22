@@ -21,7 +21,7 @@
 }
 
 ::selection {
-	background-color: #75AADB;
+	background-color: #a6495a;
 	color: #ffffff;
 }
 
@@ -91,7 +91,7 @@ p.npf_chat {
 }
 
 strike {
-	text-decoration: line-through 1px solid #74ACDF;
+	text-decoration: line-through 1px solid #a6495a;
 	font-family: "Bungee Hairline", cursive !important;
 }
 
@@ -8864,7 +8864,7 @@ div.npf-link-block .poster::before {
 	--MusicPlayer-Circle-Size: 50px;
 	--MusicPlayer-Circle-Background: #transparent;
 	--MusicPlayer-PlayButton-Size: 12px;
-	--MusicPlayer-PlayButton-Color: #74ACDF;
+	--MusicPlayer-PlayButton-Color: #c9617b;
 	--MusicPlayer-Bar-Thickness: 2px;
 	--MusicPlayer-Bar-Spacing: 2px;
 	--MusicPlayer-Bar-Color: #c8cdb3;
